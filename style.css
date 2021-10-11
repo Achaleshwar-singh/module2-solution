@@ -1,0 +1,110 @@
+h1{
+	text-align: center;
+	font-family: papyrus;
+}
+@media (min-width: 992px){
+	.row{
+		padding-left: 0%;
+	}
+	.col-lg{
+		height: 200px;
+		width: 293px;
+		border: 1px solid black;
+		float:  left;
+		padding-left: 10px;
+		padding-top: 0px;
+		margin: 1%;
+	}
+	.ibox{
+		border: 1px solid black;
+		width: 100px;
+		height: 20px;
+		text-align: right;
+		display: inline-block;
+		margin-left: 192px;
+		text-align: center;
+		font-weight: bold;
+	}
+	#ablock{
+		background-color: blue;
+	}
+	#bblock{
+		background-color: green;
+	}
+	#cblock{
+		background-color: red;
+	}
+}
+
+
+@media (min-width: 786px) and (max-width: 991px){
+	.row{
+		padding-left: 0%;
+	}
+	.col-md{
+		height: 200px;
+		width: 350px;
+		border: 1px solid black;
+		float:  left;
+		padding-left: 10px;
+		padding-top: 0px;
+		margin: 1%;
+
+	}
+	.ibox{
+		border: 1px solid black;
+		width: 100px;
+		height: 20px;
+		text-align: right;
+		display: inline-block;
+		margin-left: 627px;
+		text-align: center;
+		font-weight: bold;
+	}
+	#lblock{
+		width: 728px;
+	}
+	#ablock{
+		background-color: blue;
+	}
+	#bblock{
+		background-color: green;
+	}
+	#cblock{
+		background-color: red;
+	}
+}
+
+@media (max-width: 775px){
+	.row{
+		padding-left: 0%;
+	}
+	.col-sm{
+		height: 200px;
+		width: 350px;
+		border: 1px solid black;
+		float:  left;
+		padding-left: 10px;
+		padding-top: 0px;
+		margin: 1%;
+	}
+	.ibox{
+		border: 1px solid black;
+		width: 100px;
+		height: 20px;
+		text-align: right;
+		display: inline-block;
+		margin-left: 249px;
+		text-align: center;
+		font-weight: bold;
+	}
+	#ablock{
+		background-color: blue;
+	}
+	#bblock{
+		background-color: green;
+	}
+	#cblock{
+		background-color: red;
+	}
+}
