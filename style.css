@@ -1,3 +1,4 @@
+
 h1{
 	text-align: center;
 	font-family: papyrus;
@@ -9,15 +10,14 @@ h1{
 	.col-lg{
 		height: 200px;
 		width: 293px;
-		border: 2px solid black;
+		border: 1px solid black;
 		float:  left;
 		padding-left: 10px;
 		padding-top: 0px;
 		margin: 1%;
-		background-color: #B2B2B2;
 	}
 	.ibox{
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 100px;
 		height: 20px;
 		text-align: right;
@@ -45,16 +45,15 @@ h1{
 	.col-md{
 		height: 200px;
 		width: 350px;
-		border: 2px solid black;
+		border: 1px solid black;
 		float:  left;
 		padding-left: 10px;
 		padding-top: 0px;
 		margin: 1%;
-		background-color: #B2B2B2;
 
 	}
 	.ibox{
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 100px;
 		height: 20px;
 		text-align: right;
@@ -84,15 +83,14 @@ h1{
 	.col-sm{
 		height: 200px;
 		width: 350px;
-		border: 2px solid black;
+		border: 1px solid black;
 		float:  left;
 		padding-left: 10px;
 		padding-top: 0px;
 		margin: 1%;
-		background-color: #B2B2B2;
 	}
 	.ibox{
-		border: 2px solid black;
+		border: 1px solid black;
 		width: 100px;
 		height: 20px;
 		text-align: right;
